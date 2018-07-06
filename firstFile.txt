@@ -1,3 +1,5 @@
 Modificato su new-branch
 
 seconda modifica su new-branch
+
+Modifiche fatte su master da riportare su new-branch tramite rebase
