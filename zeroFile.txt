@@ -1,4 +1,5 @@
 nuovo file per testare il rebase 
 Punto A
 Punto B
+Punto C
 
