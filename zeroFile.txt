@@ -1,1 +1,4 @@
-nuvo file per testare il rebase
+nuovo file per testare il rebase 
+Punto A
+Punto B
+
